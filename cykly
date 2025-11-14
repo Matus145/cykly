@@ -1,10 +1,13 @@
-for x in 1,2,3,4,5,6,7,8,9,10:
-    x2= x*1,x*2,x*3,x*4,x*5,x*6,x*7,x*8,x*9,x*10
-    print("mala nasobilka",x,"je",x2)
 
-print()
+#for x in 1,2,3,4,5,6,7,8,9,10:
+    #x2= x*1,x*2,x*3,x*4,x*5,x*6,x*7,x*8,x*9,x*10
+   # print("mala nasobilka",x,"je",x2)
 
-for x in 11,12,13,14,15,16,17,18,19,20:
-    x2= x*11,x*12,x*13,x*14,x*15,x*16,x*17,x*18,x*19,x*20
-    print ("velka nasobilka",x,"je",x2)
-    
+#print()
+
+#for x in 11,12,13,14,15,16,17,18,19,20:
+   # x2= x*11,x*12,x*13,x*14,x*15,x*16,x*17,x*18,x*19,x*20
+   # print ("velka nasobilka",x,"je",x2)
+
+for pismeno in "python":
+    print (pismeno*10)
